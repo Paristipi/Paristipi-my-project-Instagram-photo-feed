@@ -1,0 +1,36 @@
+.page-body {
+  background-color: lightgray;
+  padding-top: 10px;
+}
+h1 {
+  margin: 10px 430px 10px 430px;
+}
+.page-item {
+  width: 700px;
+  height: auto;
+  margin: 40px 430px 40px 430px;
+  background-color: white;
+}
+.post {
+  display: flex;
+}
+#item-name {
+  margin-left: 10px;
+  width: 50%;
+}
+#item-number {
+  width: 50%;
+  margin-right: 10px;
+  text-align: right;
+}
+.image-container {
+  width: 700px;
+  height: auto;
+}
+.image-container img{
+  width: 100%;
+}
+.post-footer p{
+  margin: 10px;
+  padding-bottom: 10px;
+}
